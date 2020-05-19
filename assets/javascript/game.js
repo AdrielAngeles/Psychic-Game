@@ -1,6 +1,6 @@
 var letters = ["a", "b", "c"];
 
-// This array will hold what we guess
+// This array  will hold what we guess
 var guessedLetters = [];
 
 // This variable will be randomly assigned one of the three letters
